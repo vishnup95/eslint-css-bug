@@ -1,3 +1,7 @@
+# Reproduction for eslint/css issue
+
+- Refer to https://github.com/eslint/css/issues/62 for issue details
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
